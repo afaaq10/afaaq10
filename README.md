@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Afaaq Majeed</h1>
-<h3 align="center">Software Engineer from Kashmir</h3>
+<h3 align="center">Software development engineer from Kashmir</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afaaq10&label=Profile%20views&color=0e75b6&style=flat" alt="afaaq10" /> </p>
 
